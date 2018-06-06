@@ -1,0 +1,16 @@
+{
+    "name": "rajatcomposer/my-first-composer",
+    "description": "Composer is very interesting concept I had ever seen.",
+    "type": "project",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Rajat Biswas",
+            "email": "biswas.rajat811@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "dompdf/dompdf": "*"
+    }
+}
