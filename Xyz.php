@@ -2,7 +2,7 @@
 	
 	Class Xyz{
 		public function __construct(){
-			echo "Its my xyz class1";
+			echo "Its my xyz class commit";
 		}
 	}
 ?>
